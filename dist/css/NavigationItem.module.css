@@ -1,0 +1,17 @@
+.navItem {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: medium;
+  height: 100%;
+  padding: 16px 40px;
+  color: #f7f7f7;
+}
+
+.active {
+  font-size: large;
+  background-color: #1b1b1b;
+  border-bottom: 4px solid #161616;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+/*# sourceMappingURL=NavigationItem.module.css.map */

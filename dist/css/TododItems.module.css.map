@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACP,UAAU,EAAE,EAAE;EACd,UAAU,EAAE,MAAM;CACrB",
+    "sources": [
+        "../../views/src/components/TodoItems/TododItems.module.scss"
+    ],
+    "names": [],
+    "file": "TododItems.module.css"
+}

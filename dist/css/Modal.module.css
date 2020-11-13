@@ -1,0 +1,22 @@
+.Modal {
+  position: fixed;
+  z-index: 500;
+  background-color: #cebfbf;
+  width: 80%;
+  padding: 5%;
+  left: 10%;
+  top: 20%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+  border-radius: 10px;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.Modal:hover {
+  -webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+/*# sourceMappingURL=Modal.module.css.map */
